@@ -1,6 +1,0 @@
-streamlit
-mysql-connector-python
-pandas
-matplotlib
-seaborn
-fpdf
